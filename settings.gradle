@@ -1,0 +1,2 @@
+rootProject.name='ContentResolverApp'
+include ':app'
